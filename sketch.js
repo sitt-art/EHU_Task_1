@@ -5,8 +5,6 @@ function setup() {
   frameRate(30);
 }
 
-// Comment
-
 function draw() {
   clear();
   background(255);
